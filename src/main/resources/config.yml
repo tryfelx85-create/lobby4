@@ -1,0 +1,11 @@
+# Folder name of the lobby world, per your server's actual world layout.
+lobby-world: world
+
+# Spawn point inside the lobby world (schem-relative coords from freelobby0.schem,
+# re-anchor these once the schematic is pasted at its real location).
+spawn:
+  x: 0.5
+  y: -1.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,8 @@
+name: StrengthSMP-Lobby
+version: '0.1.0'
+main: com.strengthsmp.lobby.LobbyPlugin
+api-version: '1.21'
+author: TryFX
+
+# Does NOT depend on the original StrengthSMP.jar — this plugin only ever
+# touches the lobby world, never that plugin's internals.
